@@ -1,0 +1,9 @@
+name: BossWorldCore
+main: com.SkyIsland.BossWorldCore.BossWorldPlugin
+version: 0.1
+author: William Fong & Skyler Manzanares
+permissions:
+commands: 
+  BossWorldCore:
+    usage: BossWorldCore [reload]
+    description: Reloads the framework
