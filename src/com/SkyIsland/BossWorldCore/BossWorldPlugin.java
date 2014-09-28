@@ -1,4 +1,4 @@
-package com.SkyIsland.BossWorld;
+package com.SkyIsland.BossWorldCore;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
